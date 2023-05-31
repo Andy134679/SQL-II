@@ -37,6 +37,10 @@ The project includes the solution for SQL II from leetcode study plan.
 - 1731
 - 1747
 - 181
+### Day8
+- 1459
+- 180
+- 1988
 
 # Reference
 https://leetcode.com/study-plan/sql/
